@@ -28,10 +28,12 @@
 
 ---
 
-### ⛑️ Support Me
-
-<a href="https://www.buymeacoffee.com/nyiriserge"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ## 🐍 Watch a snake eating my github contributions
 
 ![snake gif](https://github.com/SergeInGithub/SergeInGithub/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ⛑️ Support Me
+
+<a href="https://www.buymeacoffee.com/nyiriserge"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
