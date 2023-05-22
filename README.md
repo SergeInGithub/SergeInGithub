@@ -25,7 +25,7 @@
 <a href="http://www.github.com/SergeInGithub"><img src="https://github-readme-stats.vercel.app/api?username=SergeInGithub&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="SergeInGithub's GitHub stats" width="400"/></a>
 <a href="http://www.github.com/SergeInGithub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SergeInGithub&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="440"/></a>
 
-<a href="http://www.github.com/SergeInGithub"><img src="https://assets.materialup.com/uploads/f734ee14-c2ac-4acf-b95c-1a748d562b54/teaser.png" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/SergeInGithub"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SergeInGithub&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ---
 
