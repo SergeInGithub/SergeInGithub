@@ -32,7 +32,7 @@
 
 ## 🐍 Watch a snake eat my github contributions
 
-![snake gif](https://github.com/SergeInGithub/SergeInGithub/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/SergeInGithub/SergeInGithub/blob/output/github-contribution-grid-snake2.svg)
 
 ---
 
